@@ -1,0 +1,75 @@
+Player ID,Team ,Player,Position,HEIGHT(CM),WEIGHT(KG),Apps,Mins,Total Passes,AccLB,InAccLB,AccSP,InAccSP,Rating
+000-001,FC Barcelona 2010-2011,Lionel Messi,Forward,170,72,13,1048,895,9,2,784,100,8.87
+000-002,FC Barcelona 2010-2011,Andreu Fontas,Defender,188,91,1,90,115,4,1,103,7,8.8
+000-003,FC Barcelona 2010-2011,Thiago Alcantara,Midfielder,174,70,1,90,131,6,2,108,15,8.75
+000-004,FC Barcelona 2010-2011,Victor Vazquez,Forward,180,78,1,77,46,1,1,39,5,7.88
+000-005,FC Barcelona 2010-2011,Andras Iniesta,Midfielder,171,68,10,899,872,41,7,768,56,7.85
+000-006,FC Barcelona 2010-2011,Sergio Busquets,Midfielder,189,76,12,1080,1190,72,13,1040,65,7.53
+000-007,FC Barcelona 2010-2011,Dani Alves,Defender,172,70,12,1078,936,21,8,805,102,7.48
+000-008,FC Barcelona 2010-2011,Xavi,Midfielder,170,68,12,953,1315,94,7,1150,64,7.44
+000-009,FC Barcelona 2010-2011,Adriano,Defender,172,75,6,424,319,11,3,277,28,7.34
+000-010,FC Barcelona 2010-2011,Marc Bartra,Defender,184,70,1,55,40,1,2,33,4,7.32
+000-011,FC Barcelona 2010-2011,Javier Mascherano,Defender,174,73,11,880,883,81,22,723,57,7.3
+000-012,FC Barcelona 2010-2011,David Villa,Forward,175,69,12,947,269,6,-,209,54,7.13
+000-013,FC Barcelona 2010-2011,Gerard Pique,Defender,194,85,12,1028,852,71,33,697,51,7.12
+000-014,FC Barcelona 2010-2011,Pedro,Forward,169,65,12,772,480,3,2,433,42,7.04
+000-015,FC Barcelona 2010-2011,Eric Abidal,Defender,186,75,8,559,438,8,5,398,27,6.89
+000-016,FC Barcelona 2010-2011,Carles Puyol,Defender,178,80,8,632,350,24,4,294,28,6.87
+000-017,FC Barcelona 2010-2011,Maxwell,Defender,176,73,7,371,235,8,1,202,24,6.56
+000-018,FC Barcelona 2010-2011,Seydou Keita,Midfielder,183,75,10,423,286,8,1,253,24,6.53
+000-019,FC Barcelona 2010-2011,Jonathan dos Santos,Midfielder,172,74,1,64,50,2,-,45,3,6.48
+000-020,FC Barcelona 2010-2011,Ibrahim Afellay,Midfielder,180,76,6,120,81,1,-,73,7,6.47
+000-021,FC Barcelona 2010-2011,Pinto,Goalkeeper,185,82,3,181,62,13,5,41,3,6.46
+000-022,FC Barcelona 2010-2011,Victor Valdes,Goalkeeper,183,78,11,990,235,57,48,126,4,6.44
+000-023,FC Barcelona 2010-2011,Gabriel Milito,Defender,179,78,2,34,42,3,1,37,1,6.2
+000-024,FC Barcelona 2010-2011,Jeffren Suarez,Forward,176,73,2,29,12,-,-,9,3,6.2
+000-025,FC Barcelona 2010-2011,Bojan,Forward,170,65,3,59,13,-,-,13,-,6.15
+000-026,FC Barcelona 2010-2011,Sergi Roberto,Midfielder,178,68,1,1,2,-,-,2,-,6
+001-001,FC Bayern Munich 2015-2016,Sebastian Rode,Midfielder,180,71,1,90,74,5,-,63,6,8.22
+001-002,FC Bayern Munich 2015-2016,Thiago Alcantara,Midfielder,174,70,8,700,706,51,15,591,49,8.1
+001-003,FC Bayern Munich 2015-2016,Arjen Robben,Forward,180,80,3,158,105,2,1,92,10,7.72
+001-004,FC Bayern Munich 2015-2016,Douglas Costa,Forward,172,70,11,897,457,22,11,375,49,7.64
+001-005,FC Bayern Munich 2015-2016,Xabi Alonso,Midfielder,183,80,8,656,729,63,17,605,44,7.4
+001-006,FC Bayern Munich 2015-2016,Kingsley Coman,Forward,181,76,8,398,161,5,1,135,20,7.38
+001-007,FC Bayern Munich 2015-2016,Arturo Vidal,Midfielder,180,75,11,827,793,39,14,682,58,7.36
+001-008,FC Bayern Munich 2015-2016,Robert Lewandowski,Forward,185,81,12,912,244,3,3,200,38,7.32
+001-009,FC Bayern Munich 2015-2016,Thomas Muller,Forward,185,76,12,896,363,6,6,292,59,7.14
+001-010,FC Bayern Munich 2015-2016,Philipp Lahm,Defender,170,66,12,1080,939,25,23,830,61,7.07
+001-011,FC Bayern Munich 2015-2016,Franck Ribery,Forward,170,72,7,438,270,11,2,219,38,7.01
+001-012,FC Bayern Munich 2015-2016,Jerome Boateng,Defender,192,90,7,537,472,42,22,368,40,6.98
+001-013,FC Bayern Munich 2015-2016,Mario Gotze,Midfielder,176,75,4,107,76,1,1,70,4,6.92
+001-014,FC Bayern Munich 2015-2016,David Alaba,Defender,180,78,10,900,822,34,18,726,44,6.84
+001-015,FC Bayern Munich 2015-2016,Javi Martinez,Midfielder,192,86,8,544,453,20,16,391,26,6.79
+001-016,FC Bayern Munich 2015-2016,Manuel Neuer,Goalkeeper,193,93,11,990,332,59,53,217,3,6.77
+001-017,FC Bayern Munich 2015-2016,Juan Bernat,Defender,177,67,8,513,382,6,8,343,25,6.7
+001-018,FC Bayern Munich 2015-2016,Sven Ulreich,Goalkeeper,192,87,1,90,29,4,6,18,1,6.67
+001-019,FC Bayern Munich 2015-2016,Rafinha,Defender,171,69,4,225,209,19,2,178,10,6.66
+001-020,FC Bayern Munich 2015-2016,Joshua Kimmich,Defender,177,75,9,601,609,43,13,513,40,6.55
+001-021,FC Bayern Munich 2015-2016,Medhi Benatia,Defender,189,94,6,177,168,5,6,152,5,6.37
+001-022,FC Bayern Munich 2015-2016,Julian Green,Midfielder,173,70,1,62,19,-,-,16,3,6.2
+001-023,FC Bayern Munich 2015-2016,Holger Badstuber,Defender,189,83,1,52,61,7,-,52,2,6
+002-001,Manchester City FC 2020-2021,Kevin De Bruyne,Midfielder,181,68,8,669,423,24,7,332,60,7.55
+002-002,Manchester City FC 2020-2021,Phil Foden,Forward,171,70,13,1066,556,11,5,474,66,7.49
+002-003,Manchester City FC 2020-2021,Ferran Torres,Forward,184,77,6,360,68,1,-,54,13,7.36
+002-004,Manchester City FC 2020-2021,Riyad Mahrez,Forward,179,67,12,812,413,11,6,337,59,7.28
+002-005,Manchester City FC 2020-2021,Joao Cancelo,Defender,182,74,9,605,549,11,7,473,58,7.25
+002-006,Manchester City FC 2020-2021,Ilkay Gundogan,Midfielder,180,80,12,978,918,25,10,820,63,7.19
+002-007,Manchester City FC 2020-2021,Nathan Ake,Defender,180,75,2,180,133,1,1,122,9,7.14
+002-008,Manchester City FC 2020-2021,Benjamin Mendy,Defender,185,85,1,78,69,-,1,65,3,7.05
+002-009,Manchester City FC 2020-2021,Kyle Walker,Defender,178,80,11,982,771,39,29,643,60,7.05
+002-010,Manchester City FC 2020-2021,Rodri,Midfielder,190,82,10,785,837,47,15,720,55,7.02
+002-011,Manchester City FC 2020-2021,Ruben Dias,Defender,186,76,11,970,903,26,19,826,32,6.99
+002-012,Manchester City FC 2020-2021,Aymeric Laporte,Defender,189,86,4,277,307,6,5,283,13,6.87
+002-013,Manchester City FC 2020-2021,Oleksandr Zinchenko,Defender,175,64,9,585,591,11,8,519,53,6.82
+002-014,Manchester City FC 2020-2021,Zack Steffen,Goalkeeper,191,86,1,90,20,1,2,17,-,6.82
+002-015,Manchester City FC 2020-2021,John Stones,Defender,188,80,11,796,674,23,15,612,24,6.75
+002-016,Manchester City FC 2020-2021,Bernardo Silva,Midfielder,173,64,13,930,519,12,5,442,60,6.74
+002-017,Manchester City FC 2020-2021,Gabriel Jesus,Forward,175,73,7,268,13.9,0.1,-,11.1,2.6,6.69
+002-018,Manchester City FC 2020-2021,Raheem Sterling,Forward,172,69,11,649,237,-,1,200,36,6.69
+002-019,Manchester City FC 2020-2021,Eric Garcia,Defender,182,76,3,208,79.7,3.7,1.3,71.3,3.3,6.63
+002-020,Manchester City FC 2020-2021,Ederson,Goalkeeper,188,86,12,1080,23.2,3.8,3.6,15.7,0.3,6.61
+002-021,Manchester City FC 2020-2021,Fernandinho,Midfielder,177,70,7,342,37.9,1.9,1.3,31.9,2.9,6.59
+002-022,Manchester City FC 2020-2021,Felix Nmecha,Midfielder,188,73,1,5,3,-,-,3,-,6.39
+002-023,Manchester City FC 2020-2021,Sergio Aguero,Forward,173,70,7,147,3.1,-,-,2.4,0.7,6.25
+002-024,Manchester City FC 2020-2021,Tommy Doyle,Midfielder,0,0,1,4,1,-,-,1,-,6.21
+002-025,Manchester City FC 2020-2021,Cole Palmer,Midfielder,182,0,1,8,5,-,-,5,-,6.01
